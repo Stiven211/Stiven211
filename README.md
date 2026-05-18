@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300/0A1428/00B4FF?text=Kevin+Stiven+Urrego+Rojas" width="100%" alt="Banner" />
+  <img src="https://via.placeholder.com/1200x300/0A1428/00B4FF?text=Kevin+Stiven+Urrego+Rojas+-+Full+Stack+Developer" width="100%" alt="Banner Kevin Stiven" />
   <h1>👋 ¡Hola! Soy Kevin Stiven Urrego Rojas</h1>
-  <p><strong>Desarrollador Full Stack</strong> | Colombia</p>
+  <p><strong>Desarrollador Full Stack</strong> | San José, Colombia</p>
 </div>
 
 ---
@@ -11,7 +11,7 @@
 Apasionado por el desarrollo web moderno. Me especializo en crear aplicaciones completas, escalables y con excelente experiencia de usuario. Siempre estoy aprendiendo y mejorando mis habilidades.
 
 - 🌱 Actualmente trabajando con **Next.js, TypeScript y Tailwind CSS**
-- 📍 San Jose, Colombia
+- 📍 San José, Colombia.
 - 💼 Abierto a colaboraciones y oportunidades
 
 ---
@@ -19,7 +19,7 @@ Apasionado por el desarrollo web moderno. Me especializo en crear aplicaciones c
 ### 🛠️ Tecnologías
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,mongodb,html,css,js,git,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,html,css,js,git,figma,vercel" />
 </div>
 
 ---
@@ -45,11 +45,11 @@ Una de mis aplicaciones más completas (gestión académica o tareas).
 **[Ver Repositorio →](https://github.com/Stiven211/TaskSchool)**
 
 **📌 Ecoprogramadores**  
-Proyecto relacionado con medio ambiente / programación.  
+Proyecto relacionado con medio ambiente y programación.  
 **[Ver Repositorio →](https://github.com/Stiven211/ecoprogramadores)**
 
 **📌 Chronos Elite**  
-Proyecto en TypeScript / Sobre ventas  
+Sistema de ventas básico desarrollado en TypeScript.  
 **[Ver Repositorio →](https://github.com/Stiven211/chronos-elite)**
 
 ---
