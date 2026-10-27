@@ -10,13 +10,13 @@ contenido administrable.
 
 ## Proyectos destacados
 
-| Proyecto | Demo | Stack |
+| Proyecto | Sitio | Stack |
 | --- | --- | --- |
-| [IEJCM · Colegio José Celestino Mutis](https://github.com/Stiven211/IEJCM) | [Ver sitio](https://colegio-jcm-mutis.vercel.app) | Next.js · TypeScript · Supabase |
-| [Ciencias y Tecnología](https://github.com/Stiven211/Ciencias-tecnologia-institucional-informativa) | [Ver sitio](https://ciencias-tecnologia-institucional-i.vercel.app) | Next.js · TypeScript · Supabase |
-| [EcoProgramadores STEAM](https://github.com/Stiven211/EcoProgramadores) | [Ver sitio](https://eco-programadores.vercel.app) | HTML · CSS · JavaScript |
-| [Expoguaviare · SENA](https://github.com/Stiven211/expoguaviare) | [Ver sitio](https://expoguaviare.vercel.app/) | JavaScript · PostgreSQL · Supabase |
-| [Taxi VIP](https://github.com/Stiven211/Landing-page-taxi-vip) | [Ver sitio](https://landing-page-taxi-vip.vercel.app) | React · TypeScript · Tailwind |
+| IEJCM · Colegio José Celestino Mutis | [Ver sitio](https://colegio-jcm-mutis.vercel.app) | Next.js · TypeScript · Supabase |
+| Ciencias y Tecnología | [Ver sitio](https://ciencias-tecnologia-institucional-i.vercel.app) | Next.js · TypeScript · Supabase |
+| EcoProgramadores STEAM | [Ver sitio](https://eco-programadores.vercel.app) | HTML · CSS · JavaScript |
+| Expoguaviare · SENA | [Ver sitio](https://expoguaviare.vercel.app/) | JavaScript · PostgreSQL · Supabase |
+| Taxi VIP | [Ver sitio](https://landing-page-taxi-vip.vercel.app) | React · TypeScript · Tailwind |
 
 ## Micro demos
 
