@@ -15,8 +15,22 @@ contenido administrable.
 | [IEJCM · Colegio José Celestino Mutis](https://github.com/Stiven211/IEJCM) | [Ver sitio](https://colegio-jcm-mutis.vercel.app) | Next.js · TypeScript · Supabase |
 | [Ciencias y Tecnología](https://github.com/Stiven211/Ciencias-tecnologia-institucional-informativa) | [Ver sitio](https://ciencias-tecnologia-institucional-i.vercel.app) | Next.js · TypeScript · Supabase |
 | [EcoProgramadores STEAM](https://github.com/Stiven211/EcoProgramadores) | [Ver sitio](https://eco-programadores.vercel.app) | HTML · CSS · JavaScript |
-| [Expoguaviare · SENA](https://github.com/Stiven211/expoguaviare) | [Ver sitio](https://stiven211.github.io/expoguaviare/) | JavaScript · PostgreSQL · Supabase |
+| [Expoguaviare · SENA](https://github.com/Stiven211/expoguaviare) | [Ver sitio](https://expoguaviare.vercel.app/) | JavaScript · PostgreSQL · Supabase |
 | [Taxi VIP](https://github.com/Stiven211/Landing-page-taxi-vip) | [Ver sitio](https://landing-page-taxi-vip.vercel.app) | React · TypeScript · Tailwind |
+
+## Micro demos
+
+Seis sistemas funcionales en versión reducida, con datos simulados y todo
+corriendo en el navegador. [Ver laboratorio completo](https://stiven211.github.io/portafolio/micro-demos/).
+
+| Demo | Sistema | Interacción |
+| --- | --- | --- |
+| [PuntoGo](https://stiven211.github.io/portafolio/micro-demos/pos/) | Punto de venta | Carrito, pagos y cierre |
+| [Asiste](https://stiven211.github.io/portafolio/micro-demos/asistencia/) | Asistencia escolar | Marcas, resumen y guardado |
+| [Norte](https://stiven211.github.io/portafolio/micro-demos/agenda/) | Agenda de citas | Horarios y espacios ocupados |
+| [Stockly](https://stiven211.github.io/portafolio/micro-demos/inventario/) | Inventario | Entradas, salidas y mínimos |
+| [MesaLista](https://stiven211.github.io/portafolio/micro-demos/comandas/) | Comandas | Mesas y estados del pedido |
+| [RutaVerde](https://stiven211.github.io/portafolio/micro-demos/reservas/) | Reservas turísticas | Cotización y confirmación |
 
 También: ClassNest (gestión académica), RoyalTime (catálogo e-commerce) y
 landings para negocios locales.
