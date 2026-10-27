@@ -1,73 +1,39 @@
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300/0A1428/00B4FF?text=Kevin+Stiven+Urrego+Rojas+-+Full+Stack+Developer" width="100%" alt="Banner Kevin Stiven" />
-  <h1>👋 ¡Hola! Soy Kevin Stiven Urrego Rojas</h1>
-  <p><strong>Desarrollador Full Stack</strong> | San José, Colombia</p>
-</div>
+# Kevin Stiven Urrego Rojas
 
----
+**Desarrollador full stack** · San José del Guaviare, Colombia
 
-### 🚀 Sobre mí
+Construyo sitios institucionales, portales educativos y landings de negocio con
+React, Next.js, TypeScript y Supabase. Productos en producción, responsive y con
+contenido administrable.
 
-Apasionado por el desarrollo web moderno. Me especializo en crear aplicaciones completas, escalables y con excelente experiencia de usuario. Siempre estoy aprendiendo y mejorando mis habilidades.
+[Portafolio](https://stiven211.github.io/portafolio/) · [Email](mailto:kurregorojas@gmail.com)
 
-- 🌱 Actualmente trabajando con **Next.js, TypeScript y Tailwind CSS**
-- 📍 San José, Colombia.
-- 💼 Abierto a colaboraciones y oportunidades
+## Proyectos destacados
 
----
+| Proyecto | Demo | Stack |
+| --- | --- | --- |
+| [IEJCM · Colegio José Celestino Mutis](https://github.com/Stiven211/IEJCM) | [Ver sitio](https://colegio-jcm-mutis.vercel.app) | Next.js · TypeScript · Supabase |
+| [Ciencias y Tecnología](https://github.com/Stiven211/Ciencias-tecnologia-institucional-informativa) | [Ver sitio](https://ciencias-tecnologia-institucional-i.vercel.app) | Next.js · TypeScript · Supabase |
+| [EcoProgramadores STEAM](https://github.com/Stiven211/EcoProgramadores) | [Ver sitio](https://eco-programadores.vercel.app) | HTML · CSS · JavaScript |
+| [Expoguaviare · SENA](https://github.com/Stiven211/expoguaviare) | [Ver sitio](https://stiven211.github.io/expoguaviare/) | JavaScript · PostgreSQL · Supabase |
+| [Taxi VIP](https://github.com/Stiven211/Landing-page-taxi-vip) | [Ver sitio](https://landing-page-taxi-vip.vercel.app) | React · TypeScript · Tailwind |
 
-### 🛠️ Tecnologías
+También: ClassNest (gestión académica), RoyalTime (catálogo e-commerce) y
+landings para negocios locales.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,html,css,js,git,figma,vercel" />
-</div>
+## Stack
 
----
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### 📊 Mis Estadísticas
+## Contacto
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stiven211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A1428&title_color=00B4FF&icon_color=00B4FF&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stiven211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1428&title_color=00B4FF&text_color=FFFFFF)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Stiven211&theme=tokyonight&hide_border=true&background=0A1428&stroke=00B4FF&ring=00B4FF&fire=00B4FF&currStreakNum=FFFFFF)
-
-</div>
-
----
-
-### 🔥 Proyectos Destacados
-
-**📌 TaskSchool**  
-Una de mis aplicaciones más completas (gestión académica o tareas).  
-**[Ver Repositorio →](https://github.com/Stiven211/TaskSchool)**
-
-**📌 Ecoprogramadores**  
-Proyecto relacionado con medio ambiente y programación.  
-**[Ver Repositorio →](https://github.com/Stiven211/ecoprogramadores)**
-
-**📌 Chronos Elite**  
-Sistema de ventas básico desarrollado en TypeScript.  
-**[Ver Repositorio →](https://github.com/Stiven211/chronos-elite)**
-
----
-
-### 📫 Contáctame
-
-<div align="center">
-
-  <a href="mailto:kurregorojas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kurregorojas@gmail.com-00B4FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://div-folio-sable.vercel.app/">
-    <img src="https://img.shields.io/badge/Portafolio-Ver-00B4FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Stiven211&color=00B4FF&style=flat-square" alt="Profile views" />
-</div>
+- Portafolio: [stiven211.github.io/portafolio](https://stiven211.github.io/portafolio/)
+- GitHub: [@Stiven211](https://github.com/Stiven211)
+- Email: [kurregorojas@gmail.com](mailto:kurregorojas@gmail.com)
+- Ubicación: San José del Guaviare, Colombia (GMT-5)
